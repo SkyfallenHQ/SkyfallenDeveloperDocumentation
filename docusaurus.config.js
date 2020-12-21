@@ -10,10 +10,10 @@ module.exports = {
   projectName: 'SkyfallenDeveloperDocumentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Skyfallen Developer Documentation',
       logo: {
         alt: 'Skyfallen Developer Documentation',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
