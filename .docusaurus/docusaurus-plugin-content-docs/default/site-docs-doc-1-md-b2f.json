@@ -1,0 +1,14 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "isDocsHomePage": false,
+  "title": "Coming Soon",
+  "description": "Skyfallen is currently preparing this documentation.",
+  "source": "@site/docs/doc1.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+  "version": "current",
+  "sidebar_label": "Coming Soon",
+  "sidebar": "someSidebar"
+}
